@@ -1,0 +1,1 @@
+Describir cada secuencia de comando
