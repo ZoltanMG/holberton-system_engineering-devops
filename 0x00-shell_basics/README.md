@@ -1,1 +1,3 @@
-Describir cada secuencia de comando
+ls
+cd
+ls -l
