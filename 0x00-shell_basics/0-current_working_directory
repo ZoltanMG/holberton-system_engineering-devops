@@ -1,3 +1,2 @@
 #!/bin/bash
-pwd
-No new line at end of file
+pwd \n
