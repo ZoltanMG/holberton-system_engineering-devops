@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -r ugo+x dir*
+sudo chmod -r ugo+x dir0 dir1 dir2
