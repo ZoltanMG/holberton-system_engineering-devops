@@ -1,3 +1,2 @@
 #!/bin/bash
-case 
-sudo chmod +X .
+sudo chmod ugo+X .
