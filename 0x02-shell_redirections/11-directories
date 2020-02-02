@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 0 -type f | wc -l
+find . -name */ -type d | wc -l
