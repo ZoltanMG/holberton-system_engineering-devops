@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e {{a..n}{a..n},{o..z}{p..z}}"\n"
