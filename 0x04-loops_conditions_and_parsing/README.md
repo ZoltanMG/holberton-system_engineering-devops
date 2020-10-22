@@ -4,7 +4,7 @@
 
 ## Background Context
 
-<a href="https://www.youtube.com/watch?v=BC2neyc5GcI&feature=youtu.be"><img src"https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/6/b07e3333b1edfb9beed5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20201022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201022T202641Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c8ee3e0fb865a8a55608b7ab2cf9b41fe0d8a806eb3211f2740f880dc2235127"></a>
+<a href="https://www.youtube.com/watch?v=BC2neyc5GcI&feature=youtu.be">![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/6/b07e3333b1edfb9beed5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20201022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201022T202641Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c8ee3e0fb865a8a55608b7ab2cf9b41fe0d8a806eb3211f2740f880dc2235127)</a>
 
 ## Learning Objectives
 
