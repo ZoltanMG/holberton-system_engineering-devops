@@ -23,7 +23,7 @@ if __name__ == "__main__":
 
     name_file = '{}.csv'.format(id)
     with open(name_file, 'w') as csv_file:
-        csv_writer = csv.writer(csv_file)
+        csv_writer = csv.writer(csv_file, quoting=csv.QUOTE_ALL)
         for do in todo:
             csv_writer.writerow([str(id),
                                 name_user,
