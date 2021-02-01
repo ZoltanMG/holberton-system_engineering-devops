@@ -31,6 +31,7 @@ if __name__ == "__main__":
     with open(name_file, 'w', encoding='utf-8') as csv_file:
         csv_writer = csv.writer(csv_file)
         for do in todo:
-            csv_writer.writerow([id, name_user,
-                                do.get('completed'),
-                                do.get('title')])
+            csv_writer.writerow(["{}".format(id),
+                                "{}".format(name_user),
+                                "{}".format(do.get('completed')),
+                                 "{}".format(do.get('title'))])
