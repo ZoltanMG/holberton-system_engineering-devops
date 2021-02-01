@@ -1,12 +1,13 @@
 #!/usr/bin/python3
 """
 use REST API {JSON} Placeholder
+Gather data from an API.
 """
 
 
 if __name__ == "__main__":
-    from sys import argv
     import requests
+    from sys import argv
 
     id = argv[1]
     url = 'https://jsonplaceholder.typicode.com/'
