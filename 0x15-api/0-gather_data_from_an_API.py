@@ -3,6 +3,7 @@
 use REST API {JSON} Placeholder
 """
 
+
 if __name__ == "__main__":
     from sys import argv
     import requests
