@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
     user = requests.get('{}users/{}'.format(url, id))
     user = user.json()
-    name_user = user.get('name')
+    name_user = user.get('username')
 
     url_todo = '{}todos?userId={}'.format(url, id)
     todo = requests.get(url_todo)
